@@ -1,0 +1,12 @@
+{
+  "name": "jelary",
+  "version": "1.0.0",
+  "description": "",
+  "main": "c1.js",
+  "scripts": {
+    "dev": "node c1.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
